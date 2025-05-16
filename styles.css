@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(250, 200, 140);
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: grey;
+    text-align: center;
+}
+
+
+h2 {
+    color: #ad4210c4;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #f1976ec4;
+    border-radius: 10px;
+}
+ul {
+    list-style: circle;
+}
